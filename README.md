@@ -10,7 +10,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 </p>
 
 ReactHooks入門講座に使用しているソースコードを公開するためのレポジトリです。
-改めてソースコードを確認したい時にご利用ください。
 
 ## 第1回：ReactHooksの理解
 
@@ -23,5 +22,4 @@ ReactHooks入門講座に使用しているソースコードを公開するた�
 
 ## 第3回：useEffectの理解
 
-~~- [Youtube動画]()~~
-~~- [該当ブランチ]()~~
+今後追加予定
