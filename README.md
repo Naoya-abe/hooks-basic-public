@@ -22,7 +22,7 @@ ReactHooks入門講座に使用しているソースコードを公開するた�
 
 ## 第3回：useEffectの理解
 
-- [Youtube動画]()
+- [Youtube動画](https://youtu.be/McEbOBmtvYs)
 - [該当ブランチ](https://github.com/Naoya-abe/hooks-basic-public/tree/youtube/useEffect)
 
 ## 第4回：useContextの理解
