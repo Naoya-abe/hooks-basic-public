@@ -17,7 +17,7 @@ ReactHooks入門講座に使用しているソースコードを公開するた�
 
 ## 第2回：useStateの理解
 
-- [Youtube動画](https://www.youtube.com/watch?v=sAtKilNWslo&list=PLtbitg0evathYRtNKN3kht99yQCqmjOUm&index=2)
+- [Youtube 動画](https://www.youtube.com/watch?v=sAtKilNWslo&list=PLtbitg0evathYRtNKN3kht99yQCqmjOUm&index=2)
 - [該当ブランチ](https://github.com/Naoya-abe/hooks-basic-public/tree/youtube/useState)
 
 ## 第3回：useEffectの理解
@@ -27,4 +27,5 @@ ReactHooks入門講座に使用しているソースコードを公開するた�
 
 ## 第4回：useContextの理解
 
-今後追加予定
+- [Youtube動画](https://youtu.be/zEGvDDX-8i0)
+- [該当ブランチ](https://github.com/Naoya-abe/hooks-basic-public/tree/youtube/useContext)
