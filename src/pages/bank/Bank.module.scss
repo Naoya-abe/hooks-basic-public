@@ -1,0 +1,22 @@
+.operationArea {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  span {
+    margin-left: 4px;
+  }
+
+  .buttons {
+    margin-top: 8px;
+
+    button {
+      margin-left: 4px;
+      margin-right: 4px;
+    }
+  }
+}
+
+.history {
+  margin-top: 40px;
+}

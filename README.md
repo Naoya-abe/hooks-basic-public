@@ -29,3 +29,8 @@ ReactHooks入門講座に使用しているソースコードを公開するた�
 
 - [Youtube動画](https://youtu.be/zEGvDDX-8i0)
 - [該当ブランチ](https://github.com/Naoya-abe/hooks-basic-public/tree/youtube/useContext)
+
+## 第5回：useReducerの理解
+
+- [Youtube動画](https://youtu.be/i_PRCwq-NuM)
+- [該当ブランチ](https://github.com/Naoya-abe/hooks-basic-public/tree/youtube/useReducer)
