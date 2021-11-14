@@ -1,0 +1,48 @@
+.app {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 32px;
+
+  .content {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+
+    .counter {
+      display: flex;
+      font-size: 24px;
+      justify-content: center;
+      margin-bottom: 24px;
+
+      .incrementButton {
+        font-size: 24px;
+        cursor: pointer;
+      }
+    }
+
+    .form {
+      display: flex;
+      flex-direction: column;
+
+      .label {
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 16px;
+      }
+
+      .input {
+        font-size: 16px;
+        margin-bottom: 8px;
+        padding: 8px;
+      }
+
+      .submitButton {
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 16px;
+        padding: 4px;
+      }
+    }
+  }
+}
