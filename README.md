@@ -34,3 +34,13 @@ ReactHooks入門講座に使用しているソースコードを公開するた�
 
 - [Youtube動画](https://youtu.be/i_PRCwq-NuM)
 - [該当ブランチ](https://github.com/Naoya-abe/hooks-basic-public/tree/youtube/useReducer)
+
+## 第6回：useCallbackの理解
+
+- [Youtube動画](https://youtu.be/KXhE1tBBfJc)
+- [該当ブランチ](https://github.com/Naoya-abe/hooks-basic-public/tree/youtube/useCallback)
+
+## 第7回：useMemoの理解
+
+- [Youtube動画](https://youtu.be/9-eGzuC2URM)
+- [該当ブランチ](https://github.com/Naoya-abe/hooks-basic-public/tree/youtube/useMemo)
