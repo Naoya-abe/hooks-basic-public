@@ -44,3 +44,8 @@ ReactHooks入門講座に使用しているソースコードを公開するた�
 
 - [Youtube動画](https://youtu.be/9-eGzuC2URM)
 - [該当ブランチ](https://github.com/Naoya-abe/hooks-basic-public/tree/youtube/useMemo)
+
+## 第8回：useRefの理解
+
+- [Youtube動画](https://youtu.be/uQ5As-ltaAY)
+- [該当ブランチ](https://github.com/Naoya-abe/hooks-basic-public/tree/youtube/useRef)
