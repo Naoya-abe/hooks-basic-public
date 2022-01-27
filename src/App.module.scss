@@ -6,42 +6,42 @@
   margin-top: 32px;
 
   .content {
-    align-items: center;
-    display: flex;
-    flex-direction: column;
-    max-width: 400px;
+    width: 20vw;
 
-    .counter {
+    .itemList {
       display: flex;
-      font-size: 24px;
-      justify-content: center;
-      margin-bottom: 24px;
+      flex-direction: column;
+      align-items: center;
+      font-size: large;
+      width: 100%;
 
-      .incrementButton {
-        font-size: 24px;
-        cursor: pointer;
+      .ul {
+        width: 100%;
+        word-break: break-all;
+        .li {
+          font-size: 20px;
+          font-weight: bold;
+          width: 100%;
+          margin-bottom: 8px;
+        }
       }
     }
 
     .form {
       display: flex;
       flex-direction: column;
+      align-items: flex-end;
+      margin-top: 32px;
 
-      .label {
-        font-family: 'Courier New', Courier, monospace;
-        font-size: 16px;
+      .textarea {
+        width: 100%;
+        box-sizing: border-box;
+        resize: none;
       }
 
-      .input {
-        font-size: 16px;
-        margin-bottom: 8px;
-        padding: 8px;
-      }
-
-      .submitButton {
-        font-family: 'Courier New', Courier, monospace;
-        font-size: 16px;
-        padding: 4px;
+      .button {
+        margin-top: 16px;
+        width: 25%;
       }
     }
   }
